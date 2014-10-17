@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dhv:home|Door43 (dhv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dhv|d43-dhv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dhv/archive/master.zip|d43-dhv.zip]]
+
+**Recent Changes**
+{{changes>ns = dhv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dhv|Ethnologue data]]
+
